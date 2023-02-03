@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1663166980 source:h:\eugene_bondarev_lb\egene_bondarev\bondarev_lb3\main.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+	<stdio.h>
+
